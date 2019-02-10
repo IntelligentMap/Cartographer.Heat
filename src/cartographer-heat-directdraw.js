@@ -1,12 +1,5 @@
 /*
- (c) 2018, Pavel Kosilo and IntelligentMap contributors
- Cartographer.Heat, a tiny and fast inverse distance weighting plugin for Cartographer.
- Largely based on the source code of Leaflet.idw by Manuel Bär (c) 2014
- https://github.com/JoranBeaufort/Leaflet.idw
- (c) 2016, Manuel Bär
- Leaflet.idw, a tiny and fast inverse distance weighting plugin for Leaflet.
- Largely based on the source code of Leaflet.heat by Vladimir Agafonkin (c) 2014
- https://github.com/Leaflet/Leaflet.heat
+ (c) 2019, Cartographer.Heat contributors
 */
 !function(){
 "use strict";

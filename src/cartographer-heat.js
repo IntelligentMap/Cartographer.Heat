@@ -1,9 +1,5 @@
 /*
- (c) 2016, Manuel Bär (www.geonet.ch)
- Leaflet.idw, a tiny and fast inverse distance weighting plugin for Leaflet.
- Largely based on the source code of Leaflet.heat by Vladimir Agafonkin (c) 2014
- https://github.com/Leaflet/Leaflet.heat
- version: 0.0.2
+ (c) 2019, Cartographer.Heat contributors
 */
 !function(){
 "use strict";

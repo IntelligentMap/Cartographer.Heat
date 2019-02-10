@@ -1,7 +1,7 @@
 # Cartographer.Heat
 A small IntelligentMap plugin to generate an IDW interpolated map
 
-A tiny, simple and fast Cartographer inverse distance weighting plugin. Largely based on the [Leaflet.idw](https://github.com/JoranBeaufort/Leaflet.idw) plugin by JoranBeaufort.
+A tiny, simple and fast Cartographer inverse distance weighting plugin.
 
 Cartographer.Heat implements a [simple inverse distance weighting algorithm](http://www.gitta.info/ContiSpatVar/de/html/Interpolatio_learningObject2.xhtml)). Every cell is calculated with the center of the cell (h/2,w/2) as the anchor from which the distance to the points is calculated.
 

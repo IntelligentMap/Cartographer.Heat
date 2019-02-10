@@ -6,14 +6,7 @@ A tiny, simple and fast Cartographer inverse distance weighting plugin. Largely 
 Cartographer.Heat implements a [simple inverse distance weighting algorithm](http://www.gitta.info/ContiSpatVar/de/html/Interpolatio_learningObject2.xhtml)). Every cell is calculated with the center of the cell (h/2,w/2) as the anchor from which the distance to the points is calculated.
 
 ## Examples
-CellSize: 1
-![Image of CellSize 1](https://github.com/IntelligentMap/Cartographer.Heat/blob/master/example/Example-1px.png)
-
-CellSize: 5
-![Image of CellSize 1](https://github.com/IntelligentMap/Cartographer.Heat/blob/master/example/Example-5px.png)
-
-CellSize: 10
-![Image of CellSize 1](https://github.com/IntelligentMap/Cartographer.Heat/blob/master/example/Example-10px.png)
+Will be added soon
 
 # Basic Usage
 
